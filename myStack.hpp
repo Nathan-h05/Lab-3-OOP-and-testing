@@ -15,7 +15,7 @@ private:
 public:
     // Constructor
     MyStack();
- //
+
     // Push an element onto the stack
     bool push(int value);
 
